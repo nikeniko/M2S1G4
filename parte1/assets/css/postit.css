@@ -11,9 +11,9 @@ body {
   color: #fff;
 }
 .lavagna {
-  background-image: url(./ardesia.jpg);
+  background-image: url(../img/ardesia.jpg);
 
-  border-image: url(./legno.jpg) 30 / 30px round;
+  border-image: url(../img/legno.jpg) 30 / 30px round;
 }
 h2,
 p {
